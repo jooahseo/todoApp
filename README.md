@@ -1,3 +1,0 @@
-# todoDemo
-
-Simple Todo app 
