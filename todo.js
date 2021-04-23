@@ -86,4 +86,5 @@ function updateLocalStorage(selectedTodo,task){
     }
     
     localStorage.setItem('todos',JSON.stringify(todosArr))
+
 }
